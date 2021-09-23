@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Benim Hakkımda</string>
+    <string name="name">Mert Akdoğan</string>
+    <string name="yellow_star">Yellow Star</string>
+
+    <string name="bio">Hi, my name is Mert.
+ \n\nI love fıtıfı
+\n\nI love fıtıfıtı
+        \n\n I love fıtıfıtı
+        \n\n I love fıtıfıtı
+        \n\n I love fıtıfıtı
+        \n\n I love fıtıfıtı
+        \n\n I love fıtıfıtı
+        \n\n I love fıtıfıtı
+        \n\n I love fıtıfıtı
+        \n\n I love fıtıfıtı
+        \n\n I love fıtıfıtı
+        \n\n I love fıtıfıtı
+        \n\n I love fıtıfıtı
+        \n\n I love fıtıfıtı
+        \n\n I love fıtıfıtı
+
+    </string>
+    <string name="what_is_your_nickname">what is your nickname</string>
+    <string name="bitti">BİTTİ</string>
+</resources>
